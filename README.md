@@ -1,3 +1,5 @@
+t.me/guvil
+
 # Deploy
 
 сгенерил ssh на машинах, добавил в github

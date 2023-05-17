@@ -1,5 +1,7 @@
 t.me/guvil
 
+...скопировано у настоящих инженеров
+
 # Deploy
 
 сгенерил ssh на машинах, добавил в github
@@ -21,3 +23,8 @@ cd ..
 docker swarm init на первом
 
 docker swarm join --token на втором
+
+
+./start.sh - запуск
+
+./update_indices.sh - обновить индексы

@@ -1,6 +1,6 @@
 t.me/guvil
 
-...скопировано у настоящих инженеров
+схема drawio https://drive.google.com/file/d/1MaQZz4REKGCl80EZneXJDyUpRckbKhJu/view?usp=share_link
 
 # Deploy
 
